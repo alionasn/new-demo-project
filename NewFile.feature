@@ -1,0 +1,1 @@
+Feature: Check that new account is created
